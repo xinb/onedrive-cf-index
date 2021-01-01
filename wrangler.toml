@@ -2,7 +2,7 @@ name = "cloud"
 type = "webpack"
 workers_dev = true
 account_id = "f265e53bab7510fbdf0148d022445bbb"
-#zone_id = ""
+zone_id = "ae01ad5cea12df1b63fb0ee79e1c493f"
 kv_namespaces = [
     { binding = "BUCKET", preview_id = "0f422a115ffb43f986fcc4fb7b35384c", id = "7fd08768c2c94b47b8e4a953e56657b6" }
 ]
